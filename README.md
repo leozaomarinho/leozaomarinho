@@ -38,8 +38,3 @@ Profissional de Segurança da Informação com **mais de 4 anos de experiência*
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leozaomarinho&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas GitHub" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozaomarinho&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="160">
-</div>
-

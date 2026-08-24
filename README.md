@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Olá, eu sou o Leonardo Marinho!</h1>
+  <h1>👋 Prazer, eu sou Leonardo Marinho!</h1>
   <p><strong>Analista de Segurança da Informação Pleno III | AppSec & DevSecOps Specialist</strong></p>
   
   <p>

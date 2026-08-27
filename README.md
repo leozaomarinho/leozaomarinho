@@ -18,7 +18,7 @@ Profissional de Segurança da Informação com **mais de 4 anos de experiência*
 
 ### 🛠️ Principais Competências & Tech Stack
 
-- **AppSec & SSDLC:** Fortify, Dependency-Track, Conviso, Cloudflare WAF, BitSight, DAST, Pentest
+- **AppSec & SSDLC:** Fortify, Veracode, Checkmarx, Dependency-Track, Conviso, Cloudflare WAF, BitSight, DAST, Pentest, Gestão de vulnerabilidades
 - **DevSecOps & CI/CD:** GitHub Actions, Azure DevOps, GitLab CI (Integração SAST/SCA/Secret Scanning)
 - **Automação & Linguagens:** Python, Bash, Java, .NET, C#
 - **Frameworks & Compliance:** OWASP (Top 10 / ASVS / SAMM), NIST, CIS Controls, MITRE ATT&CK, PCI DSS, ISO 27001
